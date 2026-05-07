@@ -20,4 +20,4 @@ Online Quiz System is a web-based application that allows users to attend quizze
 This project helps users test their knowledge online in a simple and interactive way.
 
 ## Author
-Sani Vaja
+Saloni Vaja
